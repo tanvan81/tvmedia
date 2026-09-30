@@ -54,6 +54,8 @@ npm run build
 
 Kết quả nằm trong thư mục `dist/`.
 
+Đã hoàn tất
+
 Với Vercel/Netlify cần thêm 2 biến môi trường Supabase tương tự file `.env` rồi deploy lại.
 
 ## Admin V2
